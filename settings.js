@@ -14,9 +14,9 @@ global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['212617741471'] 
+global.owner = ['212636805294'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© BOBIZA BOT ²⁰²³'
+global.cap = '© gorilla ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -26,13 +26,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'BOBIZABOT' 
+global.botnma =  'Gorilla' 
 //👇 Your name
-global.ownernma =  'instagram.com/noureddine_ouafy' 
+global.ownernma =  'instagram.com/oki_ba_ye' 
 //👇 Sticker package name
-global.packname =  'BOBIZA' 
+global.packname =  'gorilla' 
 //👇 Sticker Author Name
-global.author =  '_NOUREDDINE_OUAFY_' 
+global.author =  '_MR GORILLA_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -45,7 +45,7 @@ global.BUTTON1 = 'instagram'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://instagram.com/noureddine_ouafy'
+global.BUTTON1_URL = 'https://instagram.com/oki_ba_ye'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/@noureddinenouafy2'
 //👇 Your Add Massage 
